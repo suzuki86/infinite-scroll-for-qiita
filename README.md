@@ -1,4 +1,5 @@
 # infinite-scroll-for-qiita
 
-Work in Progress.
+Load more posts automatically when reaching bottom of page.
 
+![infinite-scroll-for-qiita](https://github.com/suzuki86/infinite-scroll-for-qiita/blob/assets/images/infinite-scroll-for-qiita.gif)
