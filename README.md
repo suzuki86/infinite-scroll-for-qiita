@@ -1,3 +1,7 @@
+# Work in progress
+
+This project is under development.
+
 # infinite-scroll-for-qiita
 
 Load more posts automatically when reaching bottom of page.
